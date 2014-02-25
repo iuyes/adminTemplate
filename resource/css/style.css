@@ -1,0 +1,10 @@
+.zh {
+  font-family: "Microsoft Yahei";
+}
+.en {
+  font-family: "Consolas";
+}
+section.content {
+  max-width: 1280px;
+  margin: 50px auto;
+}
